@@ -3,7 +3,7 @@
 
 OpenCore: `0.9.7`
 
-MacOS: `Sonoma 14.3.`
+MacOS: `Sonoma 14.3`
 
 ## Information
 | Name    | Description                             | Work or not |
