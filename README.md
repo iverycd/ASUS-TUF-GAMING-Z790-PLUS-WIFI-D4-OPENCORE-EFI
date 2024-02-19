@@ -1,9 +1,12 @@
 # ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI
+## Support OS and opencore
 
-## HARDWARE
+OpenCore: `0.9.7`
 
+MacOS: `Sonoma 14.3.`
 
-| Hardware    | Description                             | Work or not |
+## Information
+| Name    | Description                             | Work or not |
 | ----------- | --------------------------------------- | ----------- |
 | CPU         | 13th Gen Intel(R) Core(TM) i7-13700KF   | ✅           |
 | Motherboard | ASUS TUF GAMING Z790-PLUS WIFI D4      | ✅           |
@@ -14,16 +17,44 @@
 | Sound Card  | Realtek-S1220A                          | ✅           |
 | Ethernet    | Intel I226-V 2.5Gb              | ✅           |
 | WNIC        | Intel Wi-Fi 6 AX201 With BT 5.2         | ✅           |
+| AirDrop        | None         | 🚫           |
+| Sleep        | Disable         | 🚫           |
 
 
 
-## DOWNLOAD MACOS
+
+## Benchmark 
+CPUID
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/5bbff532-5867-4a8d-b322-380cde29bd2c)
+
+macOS 14.3
+
+Geekbench 6.2.2 
+
+![a839fcdc58b5410897f8cfbd196b989a](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/b47f1bbf-e64a-44d0-adb6-70df5bfc74ed)
+
+
+windows 11
+
+Geekbench 6.2.2 
+
+![ad503c7f0caa7acb22b53e58c09f7cca](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/56ea143d-c74f-447d-9f0a-d6dde5252fc7)
+
+
+
+## Prepare
+Using an PC with macOS or Apple computer
+
+## Download macOS
 
 From a macOS machine that meets the requirements of the OS version you want to install, go directly to the App Store and download the desired OS release and continue to Setting up the installer.
 
+https://apps.apple.com/cn/app/macos-sonoma/id6450717509?mt=12
+
 
 ## Setting up the installer
-Formatting the USB to prep for both the macOS installer and OpenCore
+Formatting the USB to prepare for the macOS installer
 
 ![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/8412a816-800a-4548-873a-9ccd003018b7)
 
@@ -78,6 +109,4 @@ install macOS
 
 
 ![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/54d2dc66-ebc7-457e-a861-2c92fad7a787)
-
-
 
