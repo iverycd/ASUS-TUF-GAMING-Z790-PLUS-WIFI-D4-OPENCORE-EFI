@@ -94,19 +94,23 @@ Mount your usb disk and copy opencore EFI directory to target like below
 
 ## Boot from usb device
 install macOS
-![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/af52e197-41b6-4283-9a9b-4b88043aa6b5)
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/97a86b68-6923-49dd-8f8a-0edf4ffb3889)
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/2d6bda33-761c-414a-bc6b-6ce2f06e8034)
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/723467a4-189e-4d4b-a088-2be8a3ee65a3)
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/424c7523-1525-482b-af4a-77aefe53954e)
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/74931740-1b2b-4f87-9e4e-750f07583a8d)
 
 
-![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/fd366548-a48f-4980-90b4-134b605f333e)
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/b97d7ab6-2ae2-47dc-a257-de1f4270e8b7)
+
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/3e5a5257-c137-45dd-8ff1-beed3b43e40b)
 
 
-![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/c1234e5e-17bc-4f4f-82fd-eee22a0718d6)
+![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/c6b0dc91-024e-46e1-b2b8-b8c40fc3792e)
 
-
-![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/a1151e19-354c-4245-bcdc-65be1ceaa739)
-
-![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/f0761ede-da54-42b5-a9f6-adab6241984b)
-
-
-![image](https://github.com/iverycd/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-OPENCORE-EFI/assets/35289289/54d2dc66-ebc7-457e-a861-2c92fad7a787)
 
